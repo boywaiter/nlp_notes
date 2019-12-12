@@ -1,2 +1,2 @@
 # nlp_notes
-Natural Language Processing Notes by Jacob Eisenstein
+Reading notes of Natural Language Processing Notes by Jacob Eisenstein
